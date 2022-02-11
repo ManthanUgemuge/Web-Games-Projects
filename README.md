@@ -25,9 +25,9 @@ https://github.com/ManthanUgemuge/WebGames-Projects.git
 
 |Projects|Link|
 |--------|----|
-|Advance Snake Game||
-|Snake Game||
-|WordTypingGame||
+|Advance Snake Game|https://manthanugemuge.github.io/Advance-Snake-Game/|
+|Snake Game|https://manthanugemuge.github.io/Basic-Snake-Game/|
+|WordTypingGame|https://manthanugemuge.github.io/WordTypingGame/|
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
