@@ -1,4 +1,4 @@
-# Basic-Snake-Game
+# Basic Snake Game
 A Simple Snake Game using Basic Html, CSS & Javascript
 
 ## About The Project
