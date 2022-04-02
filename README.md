@@ -27,7 +27,7 @@ https://github.com/ManthanUgemuge/WebGames-Projects.git
 |Advance Snake Game|[Live](https://manthanugemuge.github.io/Advance-Snake-Game/)|
 |Snake Game|[Live](https://manthanugemuge.github.io/Basic-Snake-Game/)|
 |WordTypingGame|[Live](https://manthanugemuge.github.io/WordTypingGame/)|
-|Tennis Game|[Live](https://manthanugemuge.github.io/Tennis-Game/)|
+|Tennis Game|[Live](https://manthanugemuge.github.io/WebGamesProjects/Tennis-Game/)|
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
