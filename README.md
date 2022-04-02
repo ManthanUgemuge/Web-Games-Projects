@@ -22,7 +22,7 @@ https://github.com/ManthanUgemuge/WebGames-Projects.git
 
 ## All Projects
 
-|Projects|Link|
+|Projects|Demo|
 |--------|----|
 |Advance Snake Game|[Live](https://manthanugemuge.github.io/Advance-Snake-Game/)|
 |Snake Game|[Live](https://manthanugemuge.github.io/Basic-Snake-Game/)|
