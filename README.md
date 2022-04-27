@@ -1,4 +1,4 @@
-# WebGames Projects
+# Web Games Projects
 My All Web Games Projects using Basic HTML, CSS &amp; JavaScript
 
 ## About The Project
