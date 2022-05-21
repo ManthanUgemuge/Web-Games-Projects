@@ -19,7 +19,7 @@ All Web Games Projects are consisting of some own logic & some are made `Also fo
 https://github.com/ManthanUgemuge/WebGames-Projects.git
 ```
 - Access All Games - [WebGamesProjects🎮](https://github.com/ManthanUgemuge/WebGamesProjects)
-- Download All - [Click Here](https://github.com/ManthanUgemuge/WebGamesProjects/archive/refs/heads/main.zip)
+- Download All - [Download All](https://github.com/ManthanUgemuge/WebGamesProjects/archive/refs/heads/main.zip)
 
 ## All Projects
 
