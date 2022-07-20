@@ -1,5 +1,5 @@
 # Web Games Projects
-My All Web Games Projects using Basic HTML, CSS &amp; JavaScript
+My All Web Games Projects using Basic HTML, CSS & JavaScript.
 
 ## About The Project
 All Web Games Projects are made by own logic or following some Tutorials.
@@ -11,7 +11,6 @@ All Web Games Projects are made by own logic or following some Tutorials.
 <a target="_blank" href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img></a>
 
 ## How to use Project
-
 
 - Download or clone the repository Website : 
 
