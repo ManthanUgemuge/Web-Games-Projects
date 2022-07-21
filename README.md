@@ -1,7 +1,7 @@
 # Web Games Projects
 My All Web Games Projects using Basic HTML, CSS & JavaScript.
 
-## About The Project
+## About the Project
 All Web Games Projects are made by own logic or following some Tutorials.
 
 ## Tech Stacks Used
