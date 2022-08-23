@@ -15,10 +15,10 @@ All Web Games Projects are made by own logic or following some Tutorials.
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/WebGames-Projects.git
+https://github.com/ManthanUgemuge/Web-Games-Projects.git
 ```
-- Access All Games - [Web Games Projects 🎮](https://github.com/ManthanUgemuge/WebGamesProjects)
-- Download All - [Click Here](https://github.com/ManthanUgemuge/WebGamesProjects/archive/refs/heads/main.zip)
+- Access All Games - [Web Games Projects 🎮](https://github.com/ManthanUgemuge/Web-Games-Projects)
+- Download All - [Click Here](https://github.com/ManthanUgemuge/Web-Games-Projects/archive/refs/heads/main.zip)
 
 ## All Projects
 
@@ -27,7 +27,7 @@ https://github.com/ManthanUgemuge/WebGames-Projects.git
 |●|[Advance Snake Game](https://github.com/ManthanUgemuge/Web-Games-Projects/tree/main/Advance%20Snake%20Game)|[Live](https://manthanugemuge.github.io/Advance-Snake-Game/)|
 |●|[Snake Game](https://github.com/ManthanUgemuge/Web-Games-Projects/tree/main/Basic%20Snake%20Game)|[Live](https://manthanugemuge.github.io/Basic-Snake-Game/)|
 |●|[Word Typing Game](https://github.com/ManthanUgemuge/Web-Games-Projects/tree/main/Tennis%20Game)|[Live](https://manthanugemuge.github.io/WordTypingGame/)|
-|●|[Tennis Game](https://github.com/ManthanUgemuge/Web-Games-Projects/tree/main/WordTypingGame)|[Live](https://manthanugemuge.github.io/WebGamesProjects/Tennis%20Game/)|
+|●|[Tennis Game](https://github.com/ManthanUgemuge/Web-Games-Projects/tree/main/WordTypingGame)|[Live](https://manthanugemuge.github.io/Web-Games-Projects/Tennis%20Game/)|
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
