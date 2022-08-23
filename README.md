@@ -26,7 +26,7 @@ https://github.com/ManthanUgemuge/Web-Games-Projects.git
 |---|--------|----|
 |●|[Advance Snake Game](https://github.com/ManthanUgemuge/Web-Games-Projects/tree/main/Advance%20Snake%20Game)|[Live](https://manthanugemuge.github.io/Advance-Snake-Game/)|
 |●|[Snake Game](https://github.com/ManthanUgemuge/Web-Games-Projects/tree/main/Basic%20Snake%20Game)|[Live](https://manthanugemuge.github.io/Basic-Snake-Game/)|
-|●|[Word Typing Game](https://github.com/ManthanUgemuge/Web-Games-Projects/tree/main/Tennis%20Game)|[Live](https://manthanugemuge.github.io/WordTypingGame/)|
+|●|[Word Typing Game](https://github.com/ManthanUgemuge/Web-Games-Projects/tree/main/Tennis%20Game)|[Live](https://manthanugemuge.github.io/Word%20Typing%20Game/)|
 |●|[Tennis Game](https://github.com/ManthanUgemuge/Web-Games-Projects/tree/main/WordTypingGame)|[Live](https://manthanugemuge.github.io/Web-Games-Projects/Tennis%20Game/)|
 
 ## Contributing
