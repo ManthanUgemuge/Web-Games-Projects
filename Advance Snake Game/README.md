@@ -14,7 +14,6 @@ An Advance Snake Game using Basic Html, CSS & Javascript
 
 ## How to use Project
 
-
 - Download or clone the repository Website : 
 
 ```
@@ -22,4 +21,5 @@ https://github.com/ManthanUgemuge/Advance-Snake-Game.git
 
 ```
 - Run Directly - https://manthanugemuge.github.io/Advance-Snake-Game/
+
 - Access All Games - https://github.com/ManthanUgemuge/WebGames-Projects
