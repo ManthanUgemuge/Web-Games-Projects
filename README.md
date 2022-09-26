@@ -18,7 +18,9 @@ All Web Games Projects are made by own logic or following some Tutorials.
 https://github.com/ManthanUgemuge/Web-Games-Projects.git
 ```
 - Access All Games - [Web Games Projects 🎮](https://github.com/ManthanUgemuge/Web-Games-Projects)
-- Download All - [Click Here](https://github.com/ManthanUgemuge/Web-Games-Projects/archive/refs/heads/main.zip)
+
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/Web-Games-Projects/archive/refs/heads/main.zip) 
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")]()
 
 ## All Projects
 
