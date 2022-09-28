@@ -15,7 +15,7 @@ All Web Games Projects are made by own logic or following some Tutorials.
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/Web-Games-Projects.git
+https://github.com/ManthanUgemuge/web-games-projects.git
 ```
 - Access All Games - [Web Games Projects 🎮]()
 
